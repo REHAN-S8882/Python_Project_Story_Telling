@@ -1,4 +1,4 @@
-C:\Users\16reh\PycharmProjects\pythonproject\.venv\Scripts\python.exe C:\Users\16reh\PycharmProjects\Python_Project1\main.py 
+
 Hi, PyCharm
 Enter a noun: Rehan
 Enter a adjective: clever
